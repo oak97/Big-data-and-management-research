@@ -202,7 +202,7 @@
 
  
 
-我们也在wind_speed这个特征维度发现按照power<=-0.975分割的结冰数据的确有区分，见图8，图8中各标记含义同图6。
+我们也在wind_speed这个特征维度发现按照power<=-0.975分割的结冰数据的确有区分，见图8，图8中各标记含义同图7。
 
 ![3label_wind_speed-int_tmp_False](./model/split/3label_wind_speed-int_tmp_False.png)
 
